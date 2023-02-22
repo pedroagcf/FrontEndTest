@@ -10,16 +10,12 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```python
-## 1) Using figma create a navigable prototype for 
-##    an e-commerce APP/mobile whose goal is to sell groceries.
-## 2) A large retail company wants to modernize its structure by 
-## eliminating human service and moving towards 100% autonomous service. 
-## Given this scenario, what would your user experience strategy look like?
-## Some data:
-## - 35% of users are considered elderly.
-## - without humans performing the checkout for users, 
-##   what would your checkout and payments strategy look like?
-    
+## Using the Referencia 2 mockup, develop a functional interface
+## for uploading a file. Check the extension we will only 
+## accept specific formats.
+
+## Instructions: thinking about a better user experience when uploading, 
+## create a progress bar.   
 ```
 
   
