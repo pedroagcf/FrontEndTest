@@ -75,28 +75,8 @@
 
 :blue_book: <strong><b>34)</b></strong> Which language is best for front end development?
 
-:blue_book: <strong><b>35)</b></strong> 
+:blue_book: <strong><b>35)</b></strong> What is SSR(Server Side Rendering)?
 
-:blue_book: <strong><b>36)</b></strong> 
+:blue_book: <strong><b>36)</b></strong> What' is bootstrap?
 
-:blue_book: <strong><b>37)</b></strong> 
-
-:blue_book: <strong><b>38)</b></strong> 
-
-:blue_book: <strong><b>39)</b></strong> 
-
-:blue_book: <strong><b>40)</b></strong> 
-
-:blue_book: <strong><b>41)</b></strong> 
-
-:blue_book: <strong><b>42)</b></strong> 
-
-:blue_book: <strong><b>43)</b></strong> 
-
-:blue_book: <strong><b>44)</b></strong> 
-
-:blue_book: <strong><b>45)</b></strong> 
-
-:blue_book: <strong><b>46)</b></strong> 
-
-:blue_book: <strong><b>47)</b></strong> 
+:blue_book: <strong><b>37)</b></strong> What is flexbox?
