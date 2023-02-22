@@ -7,39 +7,39 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Good luck !
 
-:blue_book: <strong><b>1)</b></strong> What is web designing?
+:blue_book: <strong><b>1)</b></strong>
 
-:blue_book: <strong><b>2)</b></strong> Who is a web designer?
+:blue_book: <strong><b>2)</b></strong> 
 
-:blue_book: <strong><b>3)</b></strong> What are the most widely used languages for web design?
+:blue_book: <strong><b>3)</b></strong> 
 
-:blue_book: <strong><b>4)</b></strong> Explain responsive web design.
+:blue_book: <strong><b>4)</b></strong> 
 
-:blue_book: <strong><b>5)</b></strong> How do you set an image as the background of a web page?
+:blue_book: <strong><b>5)</b></strong> 
 
-:blue_book: <strong><b>6)</b></strong> Which color would you choose as a web designer when declaring the "delete" button?
+:blue_book: <strong><b>6)</b></strong> 
 
-:blue_book: <strong><b>7)</b></strong> What do you mean by grid system?
+:blue_book: <strong><b>7)</b></strong> 
 
-:blue_book: <strong><b>8)</b></strong> What should you consider when writing an error message?
+:blue_book: <strong><b>8)</b></strong> 
 
-:blue_book: <strong><b>9)</b></strong> What are the most common problems in website design?
+:blue_book: <strong><b>9)</b></strong> 
 
-:blue_book: <strong><b>10)</b></strong> Explain information architecture.
+:blue_book: <strong><b>10)</b></strong> 
 
-:blue_book: <strong><b>11)</b></strong> What is W3C and how does it affect web design?
+:blue_book: <strong><b>11)</b></strong> 
 
-:blue_book: <strong><b>12)</b></strong> How does white space affect the content on the webpage?
+:blue_book: <strong><b>12)</b></strong> 
 
-:blue_book: <strong><b>13)</b></strong> What format would you use to embed self-hosted video on a web site?
+:blue_book: <strong><b>13)</b></strong> 
 
-:blue_book: <strong><b>14)</b></strong> Can a web page have multiple H1 tags? Would it matter?
+:blue_book: <strong><b>14)</b></strong> 
 
-:blue_book: <strong><b>15)</b></strong> When should you use HTML5 tags such as STRONG, EM, SMALL?
+:blue_book: <strong><b>15)</b></strong> 
 
-:blue_book: <strong><b>16)</b></strong> Explain doctype.
+:blue_book: <strong><b>16)</b></strong> 
 
-:blue_book: <strong><b>17)</b></strong> How to write a UX case study?
+:blue_book: <strong><b>17)</b></strong> 
 
 :blue_book: <strong><b>18)</b></strong> State difference between HTML elements and HTML tags
 
