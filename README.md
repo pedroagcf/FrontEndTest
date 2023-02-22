@@ -16,7 +16,7 @@ The skills required are all common to most modern applied approaches to UX/CX.
 
 ## 🚀Select test type
 [![Q&A](https://img.shields.io/badge/Q&A%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FFB800)](https://github.com/TomDatalab/FrontEndTest/blob/main/Q&A.md)
-[![Pratical Test](https://img.shields.io/badge/Pratical_Test%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/TomDatalab/UXTest/blob/main/praticalTest.md)
+[![Pratical Test](https://img.shields.io/badge/Pratical_Test%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/TomDatalab/FrontEndTest/blob/main/praticalTest.md)
 
 
 ## Contact 
