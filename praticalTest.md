@@ -12,7 +12,8 @@
 ```python
 ## Using the Referencia 2 mockup, develop a functional interface
 ## for uploading a file. Check the extension we will only 
-## accept specific formats.
+## accept specific formats. The design necessarily needs 
+## to be responsive.
 
 ## Instructions: thinking about a better user experience when uploading, 
 ## create a progress bar.   
