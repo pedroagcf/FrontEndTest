@@ -22,3 +22,13 @@
 ### :speaking_head: Reference 1
   
 ![up_load_file](https://user-images.githubusercontent.com/93677386/220721238-e4b9f1e6-ed3e-457b-90e8-4f4b0ceb308b.png)
+
+  
+  ```python
+## Using the Referencia 2 mockup, develop a functional interface
+## for uploading a file. Check the extension we will only 
+## accept specific formats.
+
+## Instructions: thinking about a better user experience when uploading, 
+## create a progress bar.   
+```
