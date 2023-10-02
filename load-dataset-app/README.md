@@ -4,6 +4,8 @@
 
 This is a sample application for loading datasets using [Next.js](https://nextjs.org/), a React framework. It provides functionality for uploading and processing datasets with various formats.
 Also, this project has an additional example of a search bar that filter and display the results (images + title). It can be found in [http://localhost:3000/retails](http://localhost:3000/retails)
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 ## Getting Started
 
